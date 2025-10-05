@@ -65,6 +65,28 @@ Removing or overlapping modules decreases the total—promoting **smart design d
 
 ---
 
+## 🎨 Design & Inspiration
+
+This project’s visuals and creative direction were inspired by the following amazing sources and creators:
+
+| **Source** | **Creator / Contribution** |
+|-------------|-----------------------------|
+| **Adrian** | UI/UX layout inspiration |
+| **ChatGPT** | Error solutions and development guidance |
+| **Perplexity.ai** | Video concepts and creative references |
+| **Google Gemini** | AI-generated images and ideas |
+| **Compiler United Team** | Design, development, and overall direction |
+
+---
+### 🧑‍💻 Contributors
+
+| Contributors |
+| [Gopalkrishna Rathod](https://github.com/gopalkrishnarathod20 ) |
+| [Harsh Upadyay](https://github.com/Harshupadhyay-10 ) |
+| [Manavi Khanna](https://github.com/manavikhanna ) |
+| [SwathyKrishnaG](https://github.com/SwathyKrishnaG ) |
+| [Priyanka Burkul](https://github.com/Priyanka ) |
+
 ## ⚙️ Installation & Setup
 
 To run locally:
@@ -82,17 +104,10 @@ npm install
 # Start the development server
 npm run dev
 
-## 🎨 Design & Inspiration
 
-This project’s visuals and creative direction were inspired by the following amazing sources and creators:
 
-| **Source** | **Creator / Contribution** |
-|-------------|-----------------------------|
-| **Adrian** | UI/UX layout inspiration |
-| **ChatGPT** | Error solutions and development guidance |
-| **Perplexity.ai** | Video concepts and creative references |
-| **Google Gemini** | AI-generated images and ideas |
-| **Compiler United Team** | Design, development, and overall direction |
+
+
 
 
 
