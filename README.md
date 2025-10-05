@@ -82,7 +82,7 @@ npm install
 # Start the development server
 npm run dev
 
-
+--
 Design & Inspiration
 
 This project’s visuals and creative direction were inspired by the following amazing sources and creators:
@@ -93,3 +93,4 @@ ChatGPT	Error solutions and development guidance
 Perplexity.ai	Video concepts and creative references
 Google Gemini	AI-generated images and ideas
 Compiler United Team	Design, development, and overall direction
+
